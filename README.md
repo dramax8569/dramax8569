@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Carlos, tu Ingeniero DevOps Junior</h1>
+<h1 align="center">¡Hola! Soy Christian, tu Ingeniero DevOps Junior</h1>
 <h3 align="center">Apasionado por la automatización y la mejora continua</h3>
 
 - 🌱 Actualmente estoy explorando **Desarrollo de Infraestructura como Código (IaC), Kubernetes y Observabilidad**
@@ -7,25 +7,62 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-devops" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/carlos-devops](https://www.linkedin.com/in/christian-velandia-787125219/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-devops" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Experiencia:</h3>
 <p>
-  <strong>Ingeniero DevOps Junior</strong> | InnovateTech | Enero 2022 - Presente
+  <strong>Ingeniero DevOps Junior</strong> | IBM | Enero 2023 - Presente
   <br>
-  - Diseño e implementación de pipelines CI/CD para acelerar la entrega de software.
+  1. Construir y configurar servicios de ingeniería de aplicaciones usando arquitectura limpia
+    <br>
+  2. Aplicar técnicas de programación para la modernización y migración hacia la nube de las aplicaciones web o mobile
+    <br>
+  3. Identificar e implementar buenas practicas de optimización de recursos tecnológicos con DevOps.
+    <br>
+  4. Interpretar errores e incidencias del sistema productivo para establecer acciones correctivas.
+    <br>
+  5. Documentar y socializar las implementaciones y optimizaciones logradas a nivel funcional y técnico.
+    <br>
+  6. Completar en un 100% y certificar el pathde formación para la nivelación de conocimientos con las tecnologías de IBM y de sus Partners
+    <br>
+  7. Ser agile con un pensamiento de diseño y de mejora continua.
+    <br>
+  8. Completar las historias de usuario y cumplir con los objetivos de cada sprint en los proyectos asignados como equipo.
+    <br>
+  9. Documentar y comunicar lo trabajado en cada una de las historias de usuario asignadas.
+    <br>
+  10. Participar activamente de las ceremonias agile y reuniones de alineación.
+    <br>
+  11. Proponer buenas prácticas y soluciones que permitan optimizar procesos.
+
+  <p>
+  <strong>Ingeniero DevOps Junior</strong> | COMPENSAR | Febrero 2021 - Febrero 2022
   <br>
-  - Orquestación y administración de contenedores Docker con Kubernetes para lograr una escalabilidad eficiente.
-  <br>
-  - Mejora de la infraestructura y optimización de costos en entornos cloud como AWS y GCP.
+  1. Participar en reuniones de equipo para comprender los proyectos y objetivos arquitectónicos.
+    <br>  
+  2. Familiarizarse con las tecnologías utilizadas en la empresa, como Java, Spring y bases de datos SQL.
+    <br>  
+  3. Ayudar en la revisión de la documentación de arquitectura existente.
+    <br>  
+  4. Trabajar en tareas de diseño y planificación de microservicios utilizando tecnologías como Spring Boot
+    
 </p>
 
 <h3 align="left">Educación:</h3>
 <p>
-  <strong>Bootcamp DevOps Accelerate</strong> | TechSkills Institute | Septiembre 2021 - Diciembre 2021
+  <strong>Bootcamp DevOps Accelerate</strong> | IBM | FEBRERO 2023 - JUNIO 2023
   <br>
-  - Sumergido en el mundo DevOps con enfoque en IaC y herramientas clave.
+  
+-Entender los conceptos básicos de DevOps y su importancia en el ciclo de desarrollo.
+-Aprender a utilizar herramientas como Git para el control de versiones del código.
+-Explorar herramientas como Jenkins o Travis CI para automatizar el proceso de despliegue.
+-Familiarizarse con herramientas como Ansible o Puppet para automatizar la configuración de infraestructuras.
+-Aprender a usar Docker para crear y gestionar contenedores.
+-Explorar Kubernetes para la orquestación de contenedores a gran escala.
+-Aprender a configurar pruebas automatizadas y sistemas de monitoreo utilizando herramientas como Selenium y Prometheus.
+-Configurar pipelines de CI/CD para automatizar las pruebas y el despliegue de aplicaciones.
+
 </p>
 
 <h3 align="left">Proyectos Destacados:</h3>
