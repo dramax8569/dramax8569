@@ -44,26 +44,18 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/</a>
 
   <!-- Herramientas de DevOps -->
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes">
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
   <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub">
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform">
   <img src="https://img.icons8.com/color/48/000000/circleci.png" alt="CircleCI">
-  <img src="https://img.icons8.com/color/48/000000/puppet.png" alt="Puppet">
   <img src="https://img.icons8.com/color/48/000000/chef-hat.png" alt="Chef">
   
   <!-- Nubes Públicas -->
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure">
   <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="GCP">
   <img src="https://img.icons8.com/color/48/000000/ibm.png" alt="IBM Cloud">
   <img src="https://img.icons8.com/color/48/000000/oracle.png" alt="Oracle Cloud">
-  <img src="https://img.icons8.com/color/48/000000/digitalocean.png" alt="DigitalOcean">
   <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku">
-  <img src="https://img.icons8.com/color/48/000000/alibaba-cloud.png" alt="Alibaba Cloud">
   <img src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware">
 <img src="https://img.icons8.com/color/48/000000/openstack.png" alt="OpenStack">
 
