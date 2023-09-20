@@ -22,9 +22,9 @@
 
 <h3 align="left">Educación:</h3>
 <p>
-  <strong>Bootcamp DevOps Accelerate</strong> | IBM | FEBRERO 2023 - JUNIO 2023
+  <strong>Bootcamp DevOps Accelerate</strong> | IBM | Febrero 2023 - Junio 2023
   <br>
-   <strong>Bootcamp AWS Re-star </strong> | AWS | AGOSTO 2023 - Presente
+   <strong>Bootcamp AWS Re-star </strong> | AWS | Agosto 2023 - Presente
   <br>
 
 </p>
