@@ -24,6 +24,8 @@
 <p>
   <strong>Bootcamp DevOps Accelerate</strong> | IBM | FEBRERO 2023 - JUNIO 2023
   <br>
+   <strong>Bootcamp AWS Re-star </strong> | AWS | AGOSTO 2023 - Presente
+  <br>
 
 </p>
 
