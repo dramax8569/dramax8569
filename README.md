@@ -14,7 +14,7 @@
 <p>
   <strong>Ingeniero DevOps Junior</strong> | GLOBAL HITSS | Noviembre 2023 - Presente
   <br>
-  <strong>Student Intert</strong> | IBM | Enero 2023 - Presente
+  <strong>Student Intert</strong> | IBM | Enero 2023 - Julio 2023
   <br>
   <strong>Practicante Universitario</strong> | COMPENSAR | Febrero 2021 - Febrero 2022
   <br>
