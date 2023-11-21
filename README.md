@@ -12,10 +12,12 @@
 
 <h3 align="left">Experiencia:</h3>
 <p>
-  <strong>Ingeniero DevOps Junior</strong> | IBM | Enero 2023 - Presente
+  <strong>Ingeniero DevOps Junior</strong> | GLOBAL HITSS | Noviembre 2023 - Presente
+  <br>
+  <strong>Student Intert</strong> | IBM | Enero 2023 - Presente
   <br>
   <p>
-  <strong>Ingeniero DevOps Junior</strong> | COMPENSAR | Febrero 2021 - Febrero 2022
+  <strong>Practicante Universitario</strong> | COMPENSAR | Febrero 2021 - Febrero 2022
   <br>
     
 </p>
