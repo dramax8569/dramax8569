@@ -16,7 +16,6 @@
   <br>
   <strong>Student Intert</strong> | IBM | Enero 2023 - Presente
   <br>
-  <p>
   <strong>Practicante Universitario</strong> | COMPENSAR | Febrero 2021 - Febrero 2022
   <br>
     
